@@ -1,0 +1,4 @@
+{
+  "tests.py::test_two_real_roots": true,
+  "tests.py::test_small_coefficients": true
+}

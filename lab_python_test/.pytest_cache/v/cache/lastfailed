@@ -1,0 +1,3 @@
+{
+  "tests/bdd/test_calculate_brightness.py::test_calculate_brightness_of_a_smoothed_pixel": true
+}

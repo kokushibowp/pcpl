@@ -1,0 +1,5 @@
+[
+  "tests/bdd/test_calculate_brightness.py::test_calculate_brightness_of_a_smoothed_grayscale_pixel",
+  "tests/bdd/test_calculate_brightness.py::test_calculate_brightness_of_a_smoothed_pixel",
+  "tests/unit/test_calculate_brightness.py::test_calculate_brightness"
+]
